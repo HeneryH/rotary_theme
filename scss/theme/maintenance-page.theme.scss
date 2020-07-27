@@ -1,0 +1,17 @@
+// Rotary_Theme Maintenance page custom style.
+// -----------------------------------------------------------------------------
+@import "../../node_modules/bootstrap/scss/functions";  // Bootstrap functions.
+@import "../../node_modules/bootstrap/scss/mixins";     // Bootstrap mixins.
+@import "../variables";                   // Rotary_Theme variables.
+@import "../mixins";                      // Rotary_Theme mixins.
+// -----------------------------------------------------------------------------
+
+/* Insert your Rotary_Theme maintenance page custom SASS styling. */
+
+.maintenance-page {
+  footer {
+    .footer-credits {
+      font-size: 12px;
+    }
+  }
+}
